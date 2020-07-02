@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "847422132391",
+    "firebase_url": "https://studytex-c501c.firebaseio.com",
+    "project_id": "studytex-c501c",
+    "storage_bucket": "studytex-c501c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847422132391:android:65f8ee39b46a98c3fc8b82",
+        "android_client_info": {
+          "package_name": "com.studytex.hacketex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847422132391-46k398nee3bso7lb8217ueaoi7clls02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6Sxfm70OQzZfteIsyNEDQdDPrJsLvwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847422132391-46k398nee3bso7lb8217ueaoi7clls02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

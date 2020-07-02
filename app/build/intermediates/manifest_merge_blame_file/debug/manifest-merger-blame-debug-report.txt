@@ -1,0 +1,164 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.studytex.hacketex"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:8:5-75:19
+15        android:allowBackup="true"
+15-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.2.0] C:\Users\Hacketex\.gradle\caches\transforms-2\files-2.1\6d79eadb82c8d6fd49530c3687aa44a6\core-1.2.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@drawable/app_icon"
+18-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:10:9-42
+19        android:label="Studytex"
+19-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:11:9-33
+20        android:largeHeap="true"
+20-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:12:9-33
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:13:9-40
+23        <activity android:name="com.studytex.hacketex.switchtry" />
+23-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:14:9-56
+23-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:14:19-44
+24        <activity android:name="com.studytex.hacketex.courses_books" />
+24-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:15:9-51
+24-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:15:19-48
+25        <activity
+25-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:16:9-31:20
+26            android:name="com.studytex.hacketex.MainActivity"
+26-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:17:13-41
+27            android:theme="@style/AppTheme"
+27-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:18:13-44
+28            android:windowSoftInputMode="stateHidden" >
+28-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:19:13-54
+29
+30            <!-- android:name=".SplashScreen" -->
+31            <!-- android:theme="@style/SpalshScreen" -->
+32            <!-- android:configChanges="orientation|screenSize" -->
+33            <!-- android:screenOrientation="portrait" -->
+34            <!-- android:windowSoftInputMode="stateHidden"> -->
+35            <intent-filter>
+35-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:26:13-30:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:27:17-69
+36-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:27:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:29:17-77
+38-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:29:27-74
+39            </intent-filter>
+40        </activity> <!-- <activity android:name=".MainActivity" -->
+41        <!-- android:theme="@style/AppTheme" -->
+42        <!-- android:windowSoftInputMode="stateHidden"> -->
+43        <!-- </activity> -->
+44        <activity
+44-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:35:9-39:57
+45            android:name="com.studytex.hacketex.ResultActivity"
+45-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:36:13-43
+46            android:configChanges="orientation|screenSize"
+46-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:37:13-59
+47            android:screenOrientation="portrait"
+47-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:38:13-49
+48            android:windowSoftInputMode="stateHidden" />
+48-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:39:13-54
+49        <activity
+49-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:40:9-44:57
+50            android:name="com.studytex.hacketex.RtmnuActivity"
+50-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:41:13-42
+51            android:configChanges="orientation|screenSize"
+51-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:42:13-59
+52            android:screenOrientation="portrait"
+52-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:43:13-49
+53            android:windowSoftInputMode="stateHidden" />
+53-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:44:13-54
+54        <activity
+54-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:45:9-49:57
+55            android:name="com.studytex.hacketex.MsbteActivity"
+55-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:46:13-42
+56            android:configChanges="orientation|screenSize"
+56-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:47:13-59
+57            android:screenOrientation="portrait"
+57-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:48:13-49
+58            android:windowSoftInputMode="stateHidden" />
+58-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:49:13-54
+59        <activity
+59-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:50:9-54:57
+60            android:name="com.studytex.hacketex.SyllabusActivity"
+60-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:51:13-45
+61            android:configChanges="orientation|screenSize"
+61-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:52:13-59
+62            android:screenOrientation="portrait"
+62-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:53:13-49
+63            android:windowSoftInputMode="stateHidden" /> <!-- <activity -->
+63-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:54:13-54
+64        <!-- android:name=".TryyActivity" -->
+65        <!-- android:configChanges="orientation|screenSize" -->
+66        <!-- android:screenOrientation="portrait"/> -->
+67        <meta-data
+67-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:58:9-60:69
+68            android:name="com.google.android.gms.version"
+68-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:59:13-58
+69            android:value="@integer/google_play_services_version" />
+69-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:60:13-66
+70
+71        <provider
+71-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:62:9-66:39
+72            android:name="com.google.firebase.provider.FirebaseInitProvider"
+72-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:63:13-77
+73            android:authorities="com.studytex.hacketex.firebaseinitprovider"
+73-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:64:13-77
+74            android:exported="false"
+74-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:65:13-37
+75            android:initOrder="100" />
+75-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:66:13-36
+76
+77        <service
+77-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:68:9-70:40
+78            android:name="com.google.firebase.components.ComponentDiscoveryService"
+78-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:69:13-84
+79            android:directBootAware="true"
+79-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Hacketex\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+80            android:exported="false" >
+80-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:70:13-37
+81            <meta-data
+81-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Hacketex\.gradle\caches\transforms-2\files-2.1\f41aa971764c4aef5caf485efddbcecd\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+82                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+82-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Hacketex\.gradle\caches\transforms-2\files-2.1\f41aa971764c4aef5caf485efddbcecd\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+83                android:value="com.google.firebase.components.ComponentRegistrar" />
+83-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Hacketex\.gradle\caches\transforms-2\files-2.1\f41aa971764c4aef5caf485efddbcecd\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+84        </service>
+85
+86        <uses-library
+86-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:72:9-74:40
+87            android:name="org.apache.http.legacy"
+87-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:73:13-50
+88            android:required="false" />
+88-->C:\Users\Hacketex\Documents\Studytex\app\src\main\AndroidManifest.xml:74:13-37
+89
+90        <activity
+90-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Hacketex\.gradle\caches\transforms-2\files-2.1\d7df73591dc571468c186fdd2a992bad\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+91            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+91-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Hacketex\.gradle\caches\transforms-2\files-2.1\d7df73591dc571468c186fdd2a992bad\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+92            android:exported="false"
+92-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Hacketex\.gradle\caches\transforms-2\files-2.1\d7df73591dc571468c186fdd2a992bad\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+93            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+93-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Hacketex\.gradle\caches\transforms-2\files-2.1\d7df73591dc571468c186fdd2a992bad\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+94    </application>
+95
+96</manifest>
