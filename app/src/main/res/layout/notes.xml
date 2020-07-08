@@ -1,0 +1,137 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/notes_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/notes_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:gravity="center_horizontal"
+            android:text="NOTES"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#EF5350"
+            android:layout_gravity="center_horizontal"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/bvoc_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Vocational (B.Voc)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/bca_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Computer application (BCA)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/bsc_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Science (BSc)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/arts_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Arts (BA)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/engg_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Engineering (BE)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/bcom_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Commerce (BCom)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/bcca_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Commerce in Computer Applications (BCCA)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/bpharm_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Pharmacy (BPharm)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/bba_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Business Administration (BBA)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/llb_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Laws (LLB)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/barch_text"
+        android:layout_width="256dp"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Architecture (BArch)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/bed_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Education (BEd)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/bcs_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Computer Science (BCS)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/bhm_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Bachelor of Hotel Management and Catering Technology (BHMCT)"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+
+
+</LinearLayout>

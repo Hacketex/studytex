@@ -4,6 +4,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 
     <application
         android:allowBackup="true"
@@ -11,8 +12,12 @@
         android:label="Studytex"
         android:largeHeap="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".switchtry"></activity>
-        <activity android:name=".courses_books" />
+        <activity android:name=".upload"></activity>
+        <activity android:name=".engg"></activity>
+        <activity android:name=".bsc_branch" />
+        <activity android:name=".notes" />
+        <activity android:name=".switchtry" />
+<!--        <activity android:name=".courses_books" />-->
         <activity
             android:name=".MainActivity"
             android:theme="@style/AppTheme"

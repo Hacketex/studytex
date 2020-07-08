@@ -44,7 +44,7 @@ public class MsbteActivity extends AppCompatActivity {
 		msbte_result = (WebView) findViewById(R.id.msbte_result);
 		msbte_result.getSettings().setJavaScriptEnabled(true);
 		msbte_result.getSettings().setSupportZoom(true);
-		textview1 = (TextView) findViewById(R.id.textview1);
+		textview1 = findViewById(R.id.textview1);
 		
 		msbte_result.setWebViewClient(new WebViewClient() {
 			@Override

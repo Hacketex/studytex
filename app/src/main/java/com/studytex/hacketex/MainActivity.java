@@ -1,35 +1,33 @@
 package com.studytex.hacketex;
 
-import androidx.appcompat.app.AppCompatActivity;
-import android.app.*;
-import android.os.*;
-import android.view.*;
-import android.view.View.*;
-import android.widget.*;
-import android.content.*;
-import android.graphics.*;
-import android.media.*;
-import android.net.*;
-import android.text.*;
-import android.util.*;
-import android.webkit.*;
-import android.animation.*;
-import android.view.animation.*;
-import java.util.*;
-import java.text.*;
-import android.widget.LinearLayout;
-import android.widget.ScrollView;
-import android.widget.ImageView;
-import android.widget.TextView;
-import android.widget.EditText;
-import android.webkit.WebView;
-import android.webkit.WebSettings;
-import android.widget.Button;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.Color;
 import android.net.Uri;
+import android.os.Build;
+import android.os.Bundle;
+import android.os.StrictMode;
+import android.util.SparseBooleanArray;
+import android.util.TypedValue;
 import android.view.View;
+import android.view.View.OnClickListener;
+import android.webkit.WebView;
+import android.webkit.WebViewClient;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.ListView;
+import android.widget.ScrollView;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import java.util.ArrayList;
+import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -145,6 +143,33 @@ public class MainActivity extends AppCompatActivity {
 			}
 		});
 
+		findViewById(R.id.notes);
+		notes.setOnClickListener(new OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				notes();
+			}
+		});
+
+		findViewById(R.id.upload);
+		upload.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				upload();
+
+			}
+		});
+
+	}
+
+	public void upload() {
+		Intent intent = new Intent(this, upload.class);
+		startActivity(intent);
+	}
+
+	public void notes() {
+		Intent intent = new Intent(this, notes.class);
+		startActivity(intent);
 	}
 
 	public void openswitchtry() {
@@ -272,6 +297,8 @@ public class MainActivity extends AppCompatActivity {
 				
 			}
 		});
+
+
 		
 		text_notes.setOnClickListener(new View.OnClickListener() {
 			@Override

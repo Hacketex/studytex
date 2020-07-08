@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hacketex\\.gradle\\caches\\transforms-2\\files-2.1\\c7b6252082af7c3db8c761dc5fc777cc\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",

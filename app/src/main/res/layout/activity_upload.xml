@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".upload">
+
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:text="Upload Your PDF Files"
+            android:textSize="22dp" />
+
+        <EditText
+            android:id="@+id/PDFName"
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            android:inputType="textPersonName"
+            android:text="Enter PDF Name"
+            android:textAlignment="center"
+            android:padding="21dp"/>
+
+        <Button
+            android:id="@+id/button_upload"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="upload"
+            android:padding="@dimen/cardview_default_radius"/>
+    </LinearLayout>
+</LinearLayout>

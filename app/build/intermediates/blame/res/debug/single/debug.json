@@ -1,246 +1,262 @@
 [
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profilepic.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\profilepic.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_support.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\support.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_time_table.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\time_table.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_image.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\default_image.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_result.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\result.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_studytexlogo.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\studytexlogo.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_engg.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\activity_engg.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_project.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\project.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_syllabus.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\syllabus.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\activity_upload.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_result.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\result.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_more.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\more.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drawer.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\drawer.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_news.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\news.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notification_on.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\notification_on.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_favorite.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\favorite.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\about.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_notes.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\notes.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_que_paper.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\que_paper.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_image.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\default_image.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_result.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\result.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_btech_syllabus.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\fragment_btech_syllabus.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\profile.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_books.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\books.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_btech_syllabus.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\fragment_btech_syllabus.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_books_courses.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\books_courses.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_support.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\support.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about_us_img.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\about_us_img.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about_us_img.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\about_us_img.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_books.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\books.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile_bg.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\profile_bg.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shop.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\shop.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_bacholer_list.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\bacholer_list.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drawer.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\drawer.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_que_paper.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\que_paper.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_coming_soon.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\coming_soon.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout__drawer_main.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\_drawer_main.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\drawer.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_splash_screen.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable\\bg_splash_screen.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\drawer.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_results.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\results.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_syllabus.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\syllabus.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profilepic.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\profilepic.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_screen.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable\\splash_screen.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notes.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\notes.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notes.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\notes.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout__drawer_drawer.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\_drawer_drawer.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_studytexlogo.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\studytexlogo.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_msbte.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\msbte.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_syllabus.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\syllabus.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_screen.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable\\splash_screen.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_us.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\about_us.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_msbte.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\msbte.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_splash_screen.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable\\bg_splash_screen.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_to_do.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\to_do.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile_bg.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\profile_bg.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_upload.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\upload.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_rtmnu.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\rtmnu.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_books_courses.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\books_courses.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_contact_us.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\contact_us.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notification_on.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\notification_on.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_contact_us.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\contact_us.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout__drawer_main.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\_drawer_main.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_favorite.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\favorite.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_upload.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\upload.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_to_do.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\to_do.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_rtmnu.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\rtmnu.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\layout_news.xml.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\layout\\news.xml"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_bsc_branch.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\bsc_branch.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_more.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\more.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout__drawer_drawer.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\_drawer_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shop.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\shop.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_time_table.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\time_table.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_coming_soon.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\coming_soon.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_result.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\result.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_syllabus.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\drawable-xhdpi\\syllabus.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_project.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\project.png"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_bacholer_list.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\bacholer_list.xml"
     },
     {
-        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Hacketex\\Documents\\Studytex\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_us.xml.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_results.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\drawable-xhdpi\\results.png"
+    },
+    {
+        "merged": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Hacketex\\Documents\\Studytex_old\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     }
 ]

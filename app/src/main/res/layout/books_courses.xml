@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".switchtry">
+    tools:context="switchtry">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerBook_list"

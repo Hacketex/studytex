@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Studytex.iml" filepath="$PROJECT_DIR$/.idea/modules/Studytex.iml" group="Studytex" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Studytex/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Studytex_old.iml" filepath="$PROJECT_DIR$/.idea/modules/Studytex_old.iml" group="Studytex_old" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Studytex_old/app" />
     </modules>
   </component>
 </project>
